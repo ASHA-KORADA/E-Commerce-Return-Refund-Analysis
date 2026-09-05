@@ -58,15 +58,15 @@ Created a 3-page interactive Power BI dashboard:
 
 ### Page 1 – Executive Summary
 
-![Executive Summary](Dashboard%20Images/Page%201%20-%20Executive%20Summary.png)
+![Executive Summary](Dashboard%20Images/Page-1%20Executive%20Summary.png)
 
 ### Page 2 – Product Analysis
 
-![Product Analysis](Dashboard%20Images/Page%202%20-%20Product%20Analysis.png)
+![Product Analysis](Dashboard%20Images/Page-2%20Product%20Analysis.png)
 
 ### Page 3 – Key Insights & Actions
 
-![Key Insights & Actions](Dashboard%20Images/Page%203%20-%20KeyInsights%20%26%20Actions.png)
+![Key Insights & Actions](Dashboard%20Images/Page-3%20KeyInsights%20%26%20Actions.png)
 
 ---
 
